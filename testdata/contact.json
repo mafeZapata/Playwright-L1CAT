@@ -1,0 +1,22 @@
+{
+  "contactEntries": [
+    {
+      "name": "John Doe",
+      "email": "john.doe@example.com",
+      "subject": "Product Inquiry",
+      "message": "I would like more information about your product catalog and shipping options."
+    },
+    {
+      "name": "Jane Smith",
+      "email": "jane.smith@example.com",
+      "subject": "Order Issue",
+      "message": "I have a question regarding my recent order. The delivery was delayed and I need assistance."
+    },
+    {
+      "name": "Bob Wilson",
+      "email": "bob.wilson@example.com",
+      "subject": "Feedback",
+      "message": "Great website! I wanted to share some suggestions for improving the checkout experience."
+    }
+  ]
+}

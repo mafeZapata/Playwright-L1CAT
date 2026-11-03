@@ -1,0 +1,7 @@
+{
+  "searchTerms": ["Top", "Dress", "Jeans"],
+  "productToAdd": {
+    "index": 0,
+    "expectedName": "Blue Top"
+  }
+}

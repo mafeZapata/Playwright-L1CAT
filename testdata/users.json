@@ -1,0 +1,25 @@
+{
+  "registrationUser": {
+    "name": "Test User",
+    "title": "Mr",
+    "password": "Test@12345",
+    "birthDay": "15",
+    "birthMonth": "6",
+    "birthYear": "1990",
+    "firstName": "Test",
+    "lastName": "User",
+    "company": "Test Corp",
+    "address1": "123 Test Street",
+    "address2": "Suite 456",
+    "country": "United States",
+    "state": "California",
+    "city": "Los Angeles",
+    "zipcode": "90001",
+    "mobileNumber": "5551234567"
+  },
+  "loginUser": {
+    "email": "testuser_capstone@testmail.com",
+    "password": "Test@12345",
+    "name": "Test User"
+  }
+}
